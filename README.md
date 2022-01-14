@@ -1,5 +1,4 @@
 # ExpirAI
 App para análise de imagens médicas com Tensorflow
 
-
-![image](https://user-images.githubusercontent.com/5161201/149453884-b522cfee-92aa-4e7f-94e9-c583c7c9cd04.png)
+![image](https://user-images.githubusercontent.com/5161201/149453995-b3a4126b-0ac4-43fb-9a07-16dffe1d98ce.png)
