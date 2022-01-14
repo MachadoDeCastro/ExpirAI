@@ -7,8 +7,8 @@ import ImagePicker from 'react-native-image-picker';
 import Tflite from 'tflite-react-native';
 
 let tflite = new Tflite();
-var modelFile = 'models/model.tflite';
-var labelsFile = 'models/labels.txt';
+var modelFile = '<modelo>';
+var labelsFile = '<labels>';
 
 export default class App extends Component {
   //Component permite que o codigo execute tanto para Android e IOS
