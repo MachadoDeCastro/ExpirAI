@@ -1,2 +1,2 @@
 # ExpirAI
-App para análise de imagens médicas
+App para análise de imagens médicas com Tensorflow
