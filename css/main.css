@@ -1,0 +1,96 @@
+@font-face {
+  font-family: 'SpaceAge';
+  src: url("../fonts/space-age.ttf") format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}
+h1 {
+  font-family: 'SpaceAge', Arial, sans-serif!important;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.header {
+  width: 100%;
+  padding: 0 10px;
+  text-align: left;
+  background-color: #abe9cd;
+  background-image: linear-gradient(315deg, #abe9cd 0%, #3eadcf 74%);
+  color: white;
+}
+.header h1 {
+  font-size: 50px;
+}
+.row {
+  width: 100%;
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  margin-right: 0!important;
+  margin-left: 0!important;
+}
+
+.side {
+  -ms-flex: 30%; /* IE10 */
+  flex: 30%;
+  background-color: white;
+  padding: 0 20px;
+}
+.main {
+  -ms-flex: 70%; /* IE10 */
+  flex: 70%;
+  background-color: #f1f1f1;
+  padding: 0 20px;
+}
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #fff;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
+
+.logo {
+  width: 100px;
+  float: left;
+}
+.logo2 {
+  width: 180px;
+  float: right;
+  margin-top: 25px;
+}
+@media screen and (max-width: 700px) {
+  .row {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .navbar a {
+    float: none;
+    width: 100%;
+  }
+}
+
+#label-container {
+  color: #337ab7;
+  font-size: 20px;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+}
+  
+  
