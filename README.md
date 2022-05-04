@@ -6,3 +6,6 @@ Aplicativo Web para análise de imagens médicas com Tensorflow.
 
 
 Vídeo: https://youtu.be/3cUM0eJvrsM
+
+MVP: 
+http://3.216.9.247/
