@@ -7,5 +7,4 @@ Aplicativo Web para análise de imagens médicas com Tensorflow.
 
 Vídeo: https://youtu.be/3cUM0eJvrsM
 
-MVP: 
-http://3.216.9.247/
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="igormcastro" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
