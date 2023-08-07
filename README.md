@@ -1,3 +1,3 @@
-# Teachable Machine App
-Web application created with Teachable Machine for analyzing medical images with Tensorflow using image upload and real-time video.
+# Computer Vision App
+Web application for analyzing medical images of lungs with Tensorflow 2 using images upload and real-time video.
 
